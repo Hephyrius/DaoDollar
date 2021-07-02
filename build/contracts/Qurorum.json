@@ -1,0 +1,117 @@
+{
+  "contractName": "Qurorum",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.6+commit.11564f7e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/Quorum.sol\":\"Qurorum\"},\"evmVersion\":\"berlin\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":2000},\"remappings\":[]},\"sources\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/Quorum.sol\":{\"keccak256\":\"0x772ca3680597df60dbde635d89177ae5344882af691b15ce77ac62bcc83a4093\",\"license\":\"BUSL-1.1\",\"urls\":[\"bzz-raw://a37baf4aa7063835d57eb84560dd465224189c8c52348b27efbfd32f52adf7eb\",\"dweb:/ipfs/QmNpzBYXMkFJod3fqKoV9Dun7R1L9a856zgPuLjKAGhYtn\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212201df7ada5efe126e51132d339864a1bf1e6b5cb01c4bd122268b0cb2b6ffbcf8464736f6c63430008060033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212201df7ada5efe126e51132d339864a1bf1e6b5cb01c4bd122268b0cb2b6ffbcf8464736f6c63430008060033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "211:23:4:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "211:23:4:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: BUSL-1.1\r\n/*\r\nDaoDollar ☯Dollar will be BUSL-1.1 initially so that we have the chance to develop/launch the project without worrying about copycats.\r\n*/\r\npragma solidity ^0.8.0;\r\n\r\ncontract Qurorum {\r\n\r\n}\r\n",
+  "sourcePath": "C:/Users/khera/Documents/GitHub/DaoDollar/contracts/Quorum.sol",
+  "ast": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/Quorum.sol",
+    "exportedSymbols": {
+      "Qurorum": [
+        14
+      ]
+    },
+    "id": 15,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 13,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:4"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 14,
+        "linearizedBaseContracts": [
+          14
+        ],
+        "name": "Qurorum",
+        "nameLocation": "220:7:4",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 15,
+        "src": "211:23:4",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:52:4"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/Quorum.sol",
+    "exportedSymbols": {
+      "Qurorum": [
+        14
+      ]
+    },
+    "id": 15,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 13,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:4"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 14,
+        "linearizedBaseContracts": [
+          14
+        ],
+        "name": "Qurorum",
+        "nameLocation": "220:7:4",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 15,
+        "src": "211:23:4",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:52:4"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.6+commit.11564f7e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-07-02T18:08:30.927Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}

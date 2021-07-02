@@ -1,0 +1,117 @@
+{
+  "contractName": "DaoDollar",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.6+commit.11564f7e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/DaoDollar.sol\":\"DaoDollar\"},\"evmVersion\":\"berlin\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":2000},\"remappings\":[]},\"sources\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/DaoDollar.sol\":{\"keccak256\":\"0x2f147e425a3ad0c4d1e4fdee388e0785dc0cf95c0647f3ca7223a321f0709b81\",\"license\":\"BUSL-1.1\",\"urls\":[\"bzz-raw://df3c8622feba9f1bbcf7cf8066f7b439ef7d7d6500bd4c3b7700f7299eaa156e\",\"dweb:/ipfs/QmbvMx6eiQJNYysUjgMLGDijyG6ezW8T6xQ7ih1bdUHBQw\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212202d0fb9cb7169e8ddcdb2916a5cfeecd1a15d08148c1dfba4b719a531332ade7964736f6c63430008060033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212202d0fb9cb7169e8ddcdb2916a5cfeecd1a15d08148c1dfba4b719a531332ade7964736f6c63430008060033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "211:25:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "211:25:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: BUSL-1.1\r\n/*\r\nDaoDollar ☯Dollar will be BUSL-1.1 initially so that we have the chance to develop/launch the project without worrying about copycats.\r\n*/\r\npragma solidity ^0.8.0;\r\n\r\ncontract DaoDollar {\r\n\r\n}\r\n",
+  "sourcePath": "C:/Users/khera/Documents/GitHub/DaoDollar/contracts/DaoDollar.sol",
+  "ast": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/DaoDollar.sol",
+    "exportedSymbols": {
+      "DaoDollar": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "DaoDollar",
+        "nameLocation": "220:9:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "211:25:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:54:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/DaoDollar.sol",
+    "exportedSymbols": {
+      "DaoDollar": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "DaoDollar",
+        "nameLocation": "220:9:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "211:25:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:54:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.6+commit.11564f7e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-07-02T18:08:30.922Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}

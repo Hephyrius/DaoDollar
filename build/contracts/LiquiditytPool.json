@@ -1,0 +1,117 @@
+{
+  "contractName": "LiquiditytPool",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.6+commit.11564f7e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/LiquidityPool.sol\":\"LiquiditytPool\"},\"evmVersion\":\"berlin\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":2000},\"remappings\":[]},\"sources\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/LiquidityPool.sol\":{\"keccak256\":\"0xddf4bb440b9dd8586950df09217f593a47442b79e5c044b117fa02b3c3d3aff8\",\"license\":\"BUSL-1.1\",\"urls\":[\"bzz-raw://631efcdb7c220646996033fb94c8ff365b9c3e3df1d7b53a7c05d8a531beebb8\",\"dweb:/ipfs/QmdGcHqa2c4hmDAn4KU9kY6UymXoVnki8fHPcDV5GEoMDs\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212208fd54fa0868825b3b01611f96f00c062e0c0e4439418b08bc138ceb6314a12a964736f6c63430008060033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212208fd54fa0868825b3b01611f96f00c062e0c0e4439418b08bc138ceb6314a12a964736f6c63430008060033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "211:30:3:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "211:30:3:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: BUSL-1.1\r\n/*\r\nDaoDollar ☯Dollar will be BUSL-1.1 initially so that we have the chance to develop/launch the project without worrying about copycats.\r\n*/\r\npragma solidity ^0.8.0;\r\n\r\ncontract LiquiditytPool {\r\n\r\n}\r\n",
+  "sourcePath": "C:/Users/khera/Documents/GitHub/DaoDollar/contracts/LiquidityPool.sol",
+  "ast": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/LiquidityPool.sol",
+    "exportedSymbols": {
+      "LiquiditytPool": [
+        11
+      ]
+    },
+    "id": 12,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 10,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:3"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 11,
+        "linearizedBaseContracts": [
+          11
+        ],
+        "name": "LiquiditytPool",
+        "nameLocation": "220:14:3",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 12,
+        "src": "211:30:3",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:59:3"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/LiquidityPool.sol",
+    "exportedSymbols": {
+      "LiquiditytPool": [
+        11
+      ]
+    },
+    "id": 12,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 10,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:3"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 11,
+        "linearizedBaseContracts": [
+          11
+        ],
+        "name": "LiquiditytPool",
+        "nameLocation": "220:14:3",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 12,
+        "src": "211:30:3",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:59:3"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.6+commit.11564f7e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-07-02T18:08:30.926Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}

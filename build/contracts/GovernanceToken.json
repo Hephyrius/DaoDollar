@@ -1,0 +1,117 @@
+{
+  "contractName": "GovernanceToken",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.6+commit.11564f7e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/GovernanceToken.sol\":\"GovernanceToken\"},\"evmVersion\":\"berlin\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":2000},\"remappings\":[]},\"sources\":{\"/C/Users/khera/Documents/GitHub/DaoDollar/contracts/GovernanceToken.sol\":{\"keccak256\":\"0xeca5dbe1d348ae28993400328436e785715e58f777b5b397b2c81c882b7da764\",\"license\":\"BUSL-1.1\",\"urls\":[\"bzz-raw://d09b742b3aed5cdac3021074bd0dcab2b8572300d2220fb7e99a5d81bca98653\",\"dweb:/ipfs/Qmf1HbUoj6iQEZ8tW8Jzs4fCc7aK1kXQLhMb3Fn9QKBhng\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220895b52db90b50c47a9db91cf3e3d3804da9006ff17c52191f278489b8ff84d1664736f6c63430008060033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220895b52db90b50c47a9db91cf3e3d3804da9006ff17c52191f278489b8ff84d1664736f6c63430008060033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "211:31:2:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "211:31:2:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: BUSL-1.1\r\n/*\r\nDaoDollar ☯Dollar will be BUSL-1.1 initially so that we have the chance to develop/launch the project without worrying about copycats.\r\n*/\r\npragma solidity ^0.8.0;\r\n\r\ncontract GovernanceToken {\r\n\r\n}\r\n",
+  "sourcePath": "C:/Users/khera/Documents/GitHub/DaoDollar/contracts/GovernanceToken.sol",
+  "ast": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/GovernanceToken.sol",
+    "exportedSymbols": {
+      "GovernanceToken": [
+        8
+      ]
+    },
+    "id": 9,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 7,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:2"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 8,
+        "linearizedBaseContracts": [
+          8
+        ],
+        "name": "GovernanceToken",
+        "nameLocation": "220:15:2",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 9,
+        "src": "211:31:2",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:60:2"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/khera/Documents/GitHub/DaoDollar/contracts/GovernanceToken.sol",
+    "exportedSymbols": {
+      "GovernanceToken": [
+        8
+      ]
+    },
+    "id": 9,
+    "license": "BUSL-1.1",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 7,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "184:23:2"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 8,
+        "linearizedBaseContracts": [
+          8
+        ],
+        "name": "GovernanceToken",
+        "nameLocation": "220:15:2",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 9,
+        "src": "211:31:2",
+        "usedErrors": []
+      }
+    ],
+    "src": "184:60:2"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.6+commit.11564f7e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-07-02T18:08:30.925Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
