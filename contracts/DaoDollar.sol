@@ -14,12 +14,17 @@ contract DaoDollar is ERC20, Ownable {
 
     constructor() ERC20("Dao Dollar", "dUSD") {
         minter = msg.sender;
-        emit UpdateMinter(newMinter);
+        emit UpdateMinter(minter);
     }
 
     function mint(uint256 amount) public {
-        require(msg.sender == minter, "☯Dollar : NOT THE MINTER");
+        require(msg.sender == minter, "DaoDollar : NOT THE MINTER");
         _mint(minter, amount);
+    }
+
+    function burn(uint256 amount) public {
+        require(msg.sender == minter, "DaoDollar : NOT THE MINTER");
+        _burn(msg.sender, amount);
     }
 
     function updateMinter(address newMinter) public onlyOwner {
